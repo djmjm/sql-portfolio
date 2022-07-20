@@ -3,7 +3,7 @@
 📘 Alguns exemplos feitos na linguagem sql para estudo.
 
 ### SGBD
-- mariaDB
+- mariaDB (mysql)
 
 ## ✔️ Tarefas Concluídas
 - [x] Create
